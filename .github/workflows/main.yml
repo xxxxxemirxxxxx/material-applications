@@ -1,4 +1,4 @@
-name: Build and Deploy project-x
+name: Build and Deploy express-app
 
 on:
   push:
